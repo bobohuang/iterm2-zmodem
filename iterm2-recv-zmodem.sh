@@ -14,7 +14,7 @@ if [[ $FILE = "" ]]; then
 else
 	echo $FILE
 	cd "$FILE"
-	/usr/local/bin/rz 
+	/usr/local/bin/lrz 
 	echo \# Received $FILE
 	echo
 fi

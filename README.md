@@ -1,4 +1,4 @@
-ZModem integration for iTerm 2
+ZModem integration for iTerm 2 (Fork version for lrzsz >0.12.20 on Yosemite, EI Capitan)
 ------------------------------
 
 This script can be used to automate ZModem transfers from your OSX desktop to a server that can run lrzsz (in theory, any machine 
